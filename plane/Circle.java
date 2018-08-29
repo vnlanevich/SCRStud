@@ -30,4 +30,3 @@ class Circle extends Point {
 
 }
 
-

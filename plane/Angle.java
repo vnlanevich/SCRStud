@@ -4,7 +4,6 @@ import static java.lang.Math.*;
 
 class Angle extends Point {
 
-
     Angle(double degree) {
         x = tan(toRadians(degree));
         y = 0;

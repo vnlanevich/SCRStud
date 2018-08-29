@@ -2,7 +2,6 @@ package by.it.lanevich.plane;
 
 class Line extends Point {
 
-    //конструктор с входными параметрами
     Line(double k, double b) {
         this.x = k;
         this.y = b;

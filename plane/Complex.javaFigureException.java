@@ -19,5 +19,4 @@ public class FigureException extends Exception {
     public FigureException(String message, Throwable cause, boolean enableSuppression, boolean writableStackTrace) {
         super("ОШИБКА: "+message, cause, enableSuppression, writableStackTrace);
     }
-
 }

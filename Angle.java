@@ -17,6 +17,7 @@ class Angle extends Point {
 
     public void isPerpendicular(Angle angle1) {
 
+        
         if ((double) round((this.x * angle1.x) * 100000) / 100000 == -1.0)
             System.out.println("Углы задают перпендикулярные прямые");
     }

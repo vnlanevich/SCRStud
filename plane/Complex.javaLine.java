@@ -17,7 +17,6 @@ class Line extends Point {
         if (this.x == l.x)
             System.out.println("Прямые параллельны");
     }
-
 }
 
 
